@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+md="$1"
+html=$(basename -s .md "$md").html
+cat "$md" | npx marked -o "$html"
+cat "$html" | gpaste-client
