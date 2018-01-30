@@ -1,6 +1,16 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
+
+if which pbcopy >/dev/null; then
+  copy=pbcopy
+else
+  copy=gpaste-client
+fi
+
+if [[ ! -d .built ]]; then
+  mkdir -p .built
+fi
 
 md="$1"
-html=$(basename -s .md "$md").html
+html=.built/$(basename -s .md "$md").html
 cat "$md" | npx marked -o "$html"
-cat "$html" | gpaste-client
+cat "$html" | $copy
