@@ -290,7 +290,7 @@ the hut, so had he been waiting for her in darkness...?
 "Yes, I. How did you know— wait, no matter. I think there's a darksider in the
 Temple, and I'm just gathering everyone up for possible evac?"
 
-_Why do I sound unsure? That _is_ what I'm doing._
+_Why do I sound unsure? That_ is _what I'm doing._
 
 Mahl hummed for a moment.
 
