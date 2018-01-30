@@ -1,29 +1,57 @@
-The next few wakings were very similar. Sylla decided to try doing the same
-thing over and over until she got it right. It was a good plan, she was sure of
-it. She just needed to tweak a few things. Get the timing right.
+Sylla woke up in despair and bewilderment, her last movement carried out
+despite not being back there, in the fight, anymore, and she leaped off, got
+tangled in her own duvet, and landed in a mess at the foot of her bed. Outside,
+there was a loud clatter and rumble and the sound of Ben running towards her.
 
-She got her wake up routine down to an art.
+Well, towards the Temple, which she happened to be closest to.
 
-Wake up, permalock her door, change into battle clothes, perform moving
-meditation until the dark presence had moved away and her shields were
-durasteel, cut herself out.
+_Mahl is a darksider?! Hels, Mahl is a darksider following the orders of the
+same person Ben is? That... that changes everything._
 
-The plan after that was usually to run all the way to the shuttle, pick up
-Master Skywalker, pick up some of her classmates, warn the others, fly off.
+While he hadn't said much, Mahl had revealed a lot during their brief exchange.
 
-One time she forgot to catch the section of door she cut off with the Force.
-The piece of durasteel, warped by the heat, clanged loudly on the marble,
-bouncing and rolling and making a right tintamarre. The bastard came running
-back, she threw her lightsabre at his face, and woke up feeling quite
-satisfied.
+Firstly, that there was a mastermind out there. The jumbled up fragments Ben
+blurted and repeated outside before entering the Temple hinted at it, but this
+was direct and incontroversible proof.
 
-Adjusting her cutting angle so that the door section would slide inward added
-two dozen seconds to the cutting time, but was worth it. Sylla was now able to
-catch the durasteel with her hands. A further modification saw the metal panel
-slide in and fall with a soft _whump_ on her bed sheets bundled near the door.
-A few replays later, the sheets were soaked in water to avoid getting ignited
-by the sparks and causing a fire.
+Secondly, that Mahl had been planted there, inside the New Jedi Order, by this
+mastermind. That person therefore knew where the Temple was, how to get there,
+the identity of every being involved, and most likely their current
+capabilities in all that was taught and practiced at the Temple. Furthermore,
+they had a way of communicating that did not register as Dark or suspicious for
+any of the highly sensitive Force users here, nor the less sensitive ones.
 
-(The consequences of the fire were never pleasant, although she had so far
-avoided burning to waking up. That was something she wasn't looking forward to
-ever happening.)
+On that note, Mahl clearly was capable of cloaking his darkness. While some had
+slipped through during the fight, likely because there would have been no point
+restraining himself at that point, none had ever slipped during any of the
+training or day to day events for the past several months. That was alarming
+for several other reasons, but Sylla decided to focus on the current set of
+revelations first.
+
+The third thing Mahl had revealed was that Ben was "on a mission for our Lord."
+While Master Skywalker may (he had been vague, and Sylla wasn't sure what to
+think of all that anyway) have attacked Ben in the first place, Ben had clearly
+violently responded, although it did look like self-defense, especially as
+Master Skywalker wasn't dead. Unless that was part of the mission. It was tough
+trying to reason about things with very limited information.
+
+But in any case, Ben was on a mission. A mission had parametres. One of these
+was "acceptable losses". It was a tough part of strategy classes that this
+parametre was very rarely _zero_. In Ben's mission, zero didn't seem to even be
+close. Sylla had either been an acceptable loss or part of the mission.
+
+She felt an absurd pleasure knowing that the loop reset if Ben exercised this
+leeway in his mission parametres, or did anything towards the completion of his
+goal in the latter case, ensuring he never got to finish his mission. He might
+not know it, but he would fail. Every. Single. Time.
+
+_Wait, where did that come from?_ she wondered. _"The loop resets every time
+Ben kills?" Do I know that?_
+
+She knew that if she died, the loop reset. If Ben died, ditto. If Pritik died,
+it ended also. She suspected but did not know for sure that if Master Skywalker
+died, the loop would reset.
+
+But she didn't know about any of the others.
+
+Perhaps she should find out.
