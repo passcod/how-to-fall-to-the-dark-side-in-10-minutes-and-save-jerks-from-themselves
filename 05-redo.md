@@ -55,3 +55,21 @@ died, the loop would reset.
 But she didn't know about any of the others.
 
 Perhaps she should find out.
+
+That was one thing to explore. Another was Mahl's darkness, abilities, and
+mission. Especially, his ability to conceal his darkness at all times – or
+almost. That was interesting for two reasons.
+
+_No, three,_ she realised with creeping horror. _If one darksider is able to
+inflitrate us and remain undetected, why not two? Or more?_
+
+Alright, that was an unsettling thought. But one thing at a time. Reason one:
+it meant darkness could be hidden. That was obviously a worry, even without
+considering the possibility of more darksider inflitrators. She would have to
+figure out if it was possible to defeat this, or at least detect the shielding
+itself.
+
+Reason two: if the dark could be hidden, so in turn could the light. Not
+just strong shields, but truly disappearing into the Force: that was something
+merely hinted at in the few old texts they could access, a feat of few Masters.
+It would be a tremendous help to be able to do so.
