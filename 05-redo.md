@@ -104,4 +104,53 @@ world where other beings, not _Ilar_ storms nor _Yuned'vuren_ rumblers, were the
 most dangerous hostiles. Those that survived, learned. Those that learned,
 survived.)
 
+_Back on track. Let's figure this out. I can't actually just go out and take
+out friends or classmates to see whether it would reset the loop._
 
+For one thing, it was completely against her morals and ethics, even if dying
+was impermanent at the moment. It would just be... wrong. For another, it would
+show her the wrong thing: she wanted to know if or who Ben could dispatch
+without resetting, not who _she_ could.
+
+_Although, if I'm not able to deal with Mahl, it's going to complicate things.
+Assuming I actually can take him on._
+
+To make plans, then.
+
+Predict: Ben killing anyone would reset the loop.
+
+Experiment: She could just stand aside and watch, but... could she? Would she
+be able to stay back and not defend a fellow student if they were attacked?
+
+Well then. Predict: Ben killing another darksider would _not_ reset the loop.
+
+Experiment: Still a bit shady on the ethical side, but also Mahl fucking
+deserved it after (before?) killing her friend. The issue was that Sylla had no
+idea how to cause a confrontation and have Ben off Mahl. They were allies,
+right?
+
+Predict: Mahl and Ben aren't the only darksiders around.
+
+Experiment: That's... straightforward enough. Just knock on every door,
+determine if the person within is a darksider, next. Determine how?
+
+Be bold: Just straight ask them. _It's not like they're going to be honest with
+you, girl, what?_ But, well, why not? Obviously don't ask them if they're dark.
+Ask them instead about that Lord that Ben is on a mission for. Be bold. Provoke
+them into attacking her.
+
+Be prepared to run like hell: keep a lightsaber handy. Get a blaster from the
+armoury. And if nothing else works, reset the loop.
+
+How? Sylla got a terrifying idea, but dismissed it. _No._ She'd figure it out.
+
+"Let's do this thing," she spoke out loud.
+
+She couldn't hear anything outside her door, and there was no close presence in
+the Force. So Ben had moved on towards the centre of the Temple. That was fine
+with her. She needed to get weaponry.
+
+The armoury, the real one, not the training one, was next to the hangar. She
+cast herself out a bit, feeling for immediate danger, but not risking alerting
+anyone who might be awake and listening. Then she took her cloak, stepped out,
+and jogged silently on the same route she took on the previous iteration.
