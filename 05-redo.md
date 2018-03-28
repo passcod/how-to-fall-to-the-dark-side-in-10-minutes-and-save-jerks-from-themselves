@@ -72,4 +72,36 @@ itself.
 Reason two: if the dark could be hidden, so in turn could the light. Not
 just strong shields, but truly disappearing into the Force: that was something
 merely hinted at in the few old texts they could access, a feat of few Masters.
-It would be a tremendous help to be able to do so.
+A skill lost. It would be a tremendous help to be able to do so, and beyond her
+immediate situation, a great achievement.
+
+And she had a practitioner of the skill right there.
+
+_Of course, he's not going to just teach me._
+
+Ah well. She wouldn't want him to, anyway. The very thought disturbed her;
+likely because he'd just attempted — perhaps succeeded — to murder her and her
+friends.
+
+For some reason, that bothered her less than _Ben_ doing so. She knew Ben.
+Distantly, but she did. And... he was a Solo. He was an Organa. She had grown up
+hearing stories, of heroes, of adventures. Of rescuers. Ryloth might not be part
+of the New Republic, but it remembered its liberators and defenders through the
+ages, and not all of them had names of Ryl. Sylla's homeworld was not Ryloth,
+and still the stories were told. Master Skywalker was a name that resonated
+strongly, even after the Empire, even after all this time, even beyond
+generations. Culture was powerful, and culture bound all.
+
+(Twi'lek culture had always been a mix, especially outside Ryloth. Before its
+invasion and subsequent appropriation at the hands of Imperials, Ryloth Twi'lek
+culture had considered itself purer than offshoots, and there remained some of
+that in the clans that survived. The elites. Purer, perhaps, but poorer for it:
+where _Hadara_, the Twi'lek diaspora, had the legends of _Erret_, the Tatoo
+trickster, and the tales of hidden lovers with the Mando'a _Uenu_, to guide
+their acts and hearts in times of strife, the refugees of Ryloth only had
+themselves. For many, too many, it was woefully unprepared they stepped into a
+world where other beings, not _Ilar_ storms nor _Yuned'vuren_ rumblers, were the
+most dangerous hostiles. Those that survived, learned. Those that learned,
+survived.)
+
+
