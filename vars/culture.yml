@@ -1,19 +1,33 @@
 ---
 
-# Twi'lek / Ryloth
+# Ryloth
 tw:
   people: Twi’lek
+  adj: Twi’leki
   lang: Ryl
   diaspora: Hadara
   ash: Ilar
   volcano: Yuned’vuren
 
-# Tattoine
+# Tatooine
 tt:
+  adj: Tatoo
   # Derived from Fialleril's Tatooine Slave Culture Ekkreth: the Trickster
   trickster: Erret
 
 # Mandalore
 md:
+  adj: Mando’a
   # Derived from Māori deity Uenuku: God of Rainbows
   rainbow: Uenu
+
+# Pritik's culture
+pk:
+  # Lit. "A few more moments"
+  5minutes: Krt k’chylla ssiim
+
+  # Familiar term
+  parent: adatak
+
+  # Partial of "I’ck essss chu ni’m?", "What are you doing?"
+  whatare: I’ck essss

@@ -4,7 +4,7 @@
   "description": "A Star Wars fanfiction",
   "main": "01-vision.md",
   "scripts": {
-    "prebuild": "mkdir -p .build",
+    "prebuild": "mkdir -p .build; rm .build/*",
     "build": "ls *.md | xargs -n1 -i% sh -c 'echo %; tract % vars/* | remark -q -u abbr -u html > .build/%.html'"
   },
   "repository": {

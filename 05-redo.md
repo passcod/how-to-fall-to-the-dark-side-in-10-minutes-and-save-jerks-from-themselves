@@ -101,13 +101,13 @@ Before its invasion and subsequent appropriation at the hands of Imperials,
 {{Ryloth}} {{tw.people}} culture had considered itself purer than offshoots,
 and there remained some of that in the clans that survived. The elites. Purer,
 perhaps, but poorer for it: where _{{tw.diaspora}}_, the {{tw.people}}
-diaspora, had the legends of _{{tt.trickster}}_, the Tatoo trickster, and the
-tales of hidden lovers with the Mando'a _{{md.rainbow}}_, to guide their acts
-and hearts in times of strife, the refugees of {{Ryloth}} only had themselves.
-For many, too many, it was woefully unprepared they stepped into a world where
-other beings, not _{{tw.ash}}_ storms nor _{{tw.volcano}}_ rumblers, were the
-most dangerous hostiles. Those that survived, learned. Those that learned,
-survived.)
+diaspora, had the legends of _{{tt.trickster}}_, the {{tt.adj}} trickster, and
+the tales of hidden lovers with the {{md.adj}} _{{md.rainbow}}_, to guide their
+acts and hearts in times of strife, the refugees of {{Ryloth}} only had
+themselves. For many, too many, it was woefully unprepared they stepped into a
+world where other beings, not _{{tw.ash}}_ storms nor _{{tw.volcano}}_
+rumblers, were the most dangerous hostiles. Those that survived, learned. Those
+that learned, survived.)
 
 _Back on track. Let's figure this out. I can't actually just go out and take
 out friends or classmates to see whether it would reset the loop._
