@@ -1,0 +1,19 @@
+---
+
+# Twi'lek / Ryloth
+tw:
+  people: Twi’lek
+  lang: Ryl
+  diaspora: Hadara
+  ash: Ilar
+  volcano: Yuned’vuren
+
+# Tattoine
+tt:
+  # Derived from Fialleril's Tatooine Slave Culture Ekkreth: the Trickster
+  trickster: Erret
+
+# Mandalore
+md:
+  # Derived from Māori deity Uenuku: God of Rainbows
+  rainbow: Uenu

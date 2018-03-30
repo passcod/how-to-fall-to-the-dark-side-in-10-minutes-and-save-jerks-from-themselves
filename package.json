@@ -1,0 +1,27 @@
+{
+  "name": "how-to-fall-to-the-dark-side-in-10-minutes-and-save-jerks-from-themselves",
+  "version": "0.5.0-pre.3",
+  "description": "A Star Wars fanfiction",
+  "main": "01-vision.md",
+  "scripts": {
+    "prebuild": "mkdir -p .build",
+    "build": "ls *.md | xargs -n1 -i% sh -c 'echo %; tract % vars/* | remark -q -u abbr -u html > .build/%.html'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/passcod/how-to-fall-to-the-dark-side-in-10-minutes-and-save-jerks-from-themselves"
+  },
+  "keywords": [
+    "fanfic",
+    "star-wars",
+    "writing"
+  ],
+  "author": "Félix Saparelli <felix@passcod.name> (https://passcod.name)",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "remark-abbr": "^1.1.2",
+    "remark-cli": "^5.0.0",
+    "remark-html": "^7.0.0",
+    "tract": "^1.0.0"
+  }
+}

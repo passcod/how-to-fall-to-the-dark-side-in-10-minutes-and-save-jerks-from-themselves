@@ -1,56 +1,59 @@
-Sylla woke up in despair and bewilderment, her last movement carried out
+{{Sylla}} woke up in despair and bewilderment, her last movement carried out
 despite not being back there, in the fight, anymore, and she leaped off, got
 tangled in her own duvet, and landed in a mess at the foot of her bed. Outside,
 there was a loud clatter and rumble and the sound of Ben running towards her.
 
 Well, towards the Temple, which she happened to be closest to.
 
-_Mahl is a darksider?! Hels, Mahl is a darksider following the orders of the
-same person Ben is? That... that changes everything._
+_{{Mahl}} is a darksider?! Hels, {{Mahl}} is a darksider following the orders
+of the same person {{Ben}} is? That... that changes everything._
 
-While he hadn't said much, Mahl had revealed a lot during their brief exchange.
+While he hadn't said much, {{Mahl}} had revealed a lot during their brief
+exchange.
 
-Firstly, that there was a mastermind out there. The jumbled up fragments Ben
-blurted and repeated outside before entering the Temple hinted at it, but this
-was direct and incontroversible proof.
+Firstly, that there was a mastermind out there. The jumbled up fragments
+{{Ben}} blurted and repeated outside before entering the Temple hinted at it,
+but this was direct and incontroversible proof.
 
-Secondly, that Mahl had been planted there, inside the New Jedi Order, by this
+Secondly, that Mahl had been planted there, inside the {{org.newjedi}}, by this
 mastermind. That person therefore knew where the Temple was, how to get there,
 the identity of every being involved, and most likely their current
 capabilities in all that was taught and practiced at the Temple. Furthermore,
 they had a way of communicating that did not register as Dark or suspicious for
 any of the highly sensitive Force users here, nor the less sensitive ones.
 
-On that note, Mahl clearly was capable of cloaking his darkness. While some had
-slipped through during the fight, likely because there would have been no point
-restraining himself at that point, none had ever slipped during any of the
-training or day to day events for the past several months. That was alarming
-for several other reasons, but Sylla decided to focus on the current set of
-revelations first.
+On that note, {{Mahl}} clearly was capable of cloaking his darkness. While some
+had slipped through during the fight, likely because there would have been no
+point restraining himself at that point, none had ever slipped during any of
+the training or day to day events for the past several months. That was
+alarming for several other reasons, but {{Sylla}} decided to focus on the
+current set of revelations first.
 
-The third thing Mahl had revealed was that Ben was "on a mission for our Lord."
-While Master Skywalker may (he had been vague, and Sylla wasn't sure what to
-think of all that anyway) have attacked Ben in the first place, Ben had clearly
-violently responded, although it did look like self-defense, especially as
-Master Skywalker wasn't dead. Unless that was part of the mission. It was tough
-trying to reason about things with very limited information.
+The third thing {{Mahl}} had revealed was that {{Ben}} was "on a mission for
+our Lord." While Master {{Skywalker}} may (he had been vague, and {{Sylla}}
+wasn't sure what to think of all that anyway) have attacked Ben in the first
+place, {{Ben}} had clearly violently responded, although it did look like
+self-defense, especially as Master {{Skywalker}} wasn't dead. Unless that was
+part of the mission. It was tough trying to reason about things with very
+limited information.
 
-But in any case, Ben was on a mission. A mission had parametres. One of these
-was "acceptable losses". It was a tough part of strategy classes that this
-parametre was very rarely _zero_. In Ben's mission, zero didn't seem to even be
-close. Sylla had either been an acceptable loss or part of the mission.
+But in any case, {{Ben}} was on a mission. A mission had parametres. One of
+these was "acceptable losses". It was a tough part of strategy classes that
+this parametre was very rarely _zero_. In {{Ben}}'s mission, zero didn't seem
+to even be close. {{Sylla}} had either been an acceptable loss or part of the
+mission.
 
-She felt an absurd pleasure knowing that the loop reset if Ben exercised this
-leeway in his mission parametres, or did anything towards the completion of his
-goal in the latter case, ensuring he never got to finish his mission. He might
-not know it, but he would fail. Every. Single. Time.
+She felt an absurd pleasure knowing that the loop reset if {{Ben}} exercised
+this leeway in his mission parametres, or did anything towards the completion
+of his goal in the latter case, ensuring he never got to finish his mission. He
+might not know it, but he would fail. Every. Single. Time.
 
 _Wait, where did that come from?_ she wondered. _"The loop resets every time
-Ben kills?" Do I know that?_
+{{Ben}} kills?" Do I know that?_
 
-She knew that if she died, the loop reset. If Ben died, ditto. If Pritik died,
-it ended also. She suspected but did not know for sure that if Master Skywalker
-died, the loop would reset.
+She knew that if she died, the loop reset. If {{Ben}} died, ditto. If
+{{Pritik}} died, it ended also. She suspected but did not know for sure that if
+Master {{Skywalker}} died, the loop would reset.
 
 But she didn't know about any of the others.
 
@@ -69,8 +72,8 @@ considering the possibility of more darksider inflitrators. She would have to
 figure out if it was possible to defeat this, or at least detect the shielding
 itself.
 
-Reason two: if the dark could be hidden, so in turn could the light. Not
-just strong shields, but truly disappearing into the Force: that was something
+Reason two: if the dark could be hidden, so in turn could the light. Not just
+strong shields, but truly disappearing into the Force: that was something
 merely hinted at in the few old texts they could access, a feat of few Masters.
 A skill lost. It would be a tremendous help to be able to do so, and beyond her
 immediate situation, a great achievement.
@@ -83,24 +86,26 @@ Ah well. She wouldn't want him to, anyway. The very thought disturbed her;
 likely because he'd just attempted — perhaps succeeded — to murder her and her
 friends.
 
-For some reason, that bothered her less than _Ben_ doing so. She knew Ben.
-Distantly, but she did. And... he was a Solo. He was an Organa. She had grown up
-hearing stories, of heroes, of adventures. Of rescuers. Ryloth might not be part
-of the New Republic, but it remembered its liberators and defenders through the
-ages, and not all of them had names of Ryl. Sylla's homeworld was not Ryloth,
-and still the stories were told. Master Skywalker was a name that resonated
-strongly, even after the Empire, even after all this time, even beyond
-generations. Culture was powerful, and culture bound all.
+For some reason, that bothered her less than _{{Ben}}_ doing so. She knew
+{{Ben}}. Distantly, but she did. And... he was a {{Solo}}. He was an
+{{Organa}}. She had grown up hearing stories, of heroes, of adventures. Of
+rescuers. {{Ryloth}} might not be part of the {{org.newrep}}, but it remembered
+its liberators and defenders through the ages, and not all of them had names of
+{{tw.lang}}. {{Sylla}}'s homeworld was not {{Ryloth}}, and still the stories
+were told. Master {{Skywalker}} was a name that resonated strongly, even after
+the {{org.empire}}, even after all this time, even beyond generations. Culture
+was powerful, and culture bound all.
 
-(Twi'lek culture had always been a mix, especially outside Ryloth. Before its
-invasion and subsequent appropriation at the hands of Imperials, Ryloth Twi'lek
-culture had considered itself purer than offshoots, and there remained some of
-that in the clans that survived. The elites. Purer, perhaps, but poorer for it:
-where _Hadara_, the Twi'lek diaspora, had the legends of _Erret_, the Tatoo
-trickster, and the tales of hidden lovers with the Mando'a _Uenu_, to guide
-their acts and hearts in times of strife, the refugees of Ryloth only had
-themselves. For many, too many, it was woefully unprepared they stepped into a
-world where other beings, not _Ilar_ storms nor _Yuned'vuren_ rumblers, were the
+({{tw.people}} culture had always been a mix, especially outside {{Ryloth}}.
+Before its invasion and subsequent appropriation at the hands of Imperials,
+{{Ryloth}} {{tw.people}} culture had considered itself purer than offshoots,
+and there remained some of that in the clans that survived. The elites. Purer,
+perhaps, but poorer for it: where _{{tw.diaspora}}_, the {{tw.people}}
+diaspora, had the legends of _{{tt.trickster}}_, the Tatoo trickster, and the
+tales of hidden lovers with the Mando'a _{{md.rainbow}}_, to guide their acts
+and hearts in times of strife, the refugees of {{Ryloth}} only had themselves.
+For many, too many, it was woefully unprepared they stepped into a world where
+other beings, not _{{tw.ash}}_ storms nor _{{tw.volcano}}_ rumblers, were the
 most dangerous hostiles. Those that survived, learned. Those that learned,
 survived.)
 
@@ -109,46 +114,48 @@ out friends or classmates to see whether it would reset the loop._
 
 For one thing, it was completely against her morals and ethics, even if dying
 was impermanent at the moment. It would just be... wrong. For another, it would
-show her the wrong thing: she wanted to know if or who Ben could dispatch
+show her the wrong thing: she wanted to know if or who {{Ben}} could dispatch
 without resetting, not who _she_ could.
 
-_Although, if I'm not able to deal with Mahl, it's going to complicate things.
-Assuming I actually can take him on._
+_Although, if I'm not able to deal with {{Mahl}}, it's going to complicate
+things. Assuming I actually can take him on._
 
 To make plans, then.
 
-Predict: Ben killing anyone would reset the loop.
+Predict: {{Ben}} killing anyone would reset the loop.
 
 Experiment: She could just stand aside and watch, but... could she? Would she
 be able to stay back and not defend a fellow student if they were attacked?
 
-Well then. Predict: Ben killing another darksider would _not_ reset the loop.
+Well then. Predict: {{Ben}} killing another darksider would _not_ reset the
+loop.
 
-Experiment: Still a bit shady on the ethical side, but also Mahl fucking
-deserved it after (before?) killing her friend. The issue was that Sylla had no
-idea how to cause a confrontation and have Ben off Mahl. They were allies,
-right?
+Experiment: Still a bit shady on the ethical side, but also {{Mahl}} fucking
+deserved it after (before?) killing her friend. The issue was that {{Sylla}}
+had no idea how to cause a confrontation and have {{Ben}} off {{Mahl}}. They
+were allies, right?
 
-Predict: Mahl and Ben aren't the only darksiders around.
+Predict: {{Mahl}} and {{Ben}} aren't the only darksiders around.
 
 Experiment: That's... straightforward enough. Just knock on every door,
 determine if the person within is a darksider, next. Determine how?
 
 Be bold: Just straight ask them. _It's not like they're going to be honest with
 you, girl, what?_ But, well, why not? Obviously don't ask them if they're dark.
-Ask them instead about that Lord that Ben is on a mission for. Be bold. Provoke
-them into attacking her.
+Ask them instead about that Lord that {{Ben}} is on a mission for. Be bold.
+Provoke them into attacking her.
 
 Be prepared to run like hell: keep a lightsaber handy. Get a blaster from the
 armoury. And if nothing else works, reset the loop.
 
-How? Sylla got a terrifying idea, but dismissed it. _No._ She'd figure it out.
+How? {{Sylla}} got a terrifying idea, but dismissed it. _No._ She'd figure it
+out.
 
 "Let's do this thing," she spoke out loud.
 
 She couldn't hear anything outside her door, and there was no close presence in
-the Force. So Ben had moved on towards the centre of the Temple. That was fine
-with her. She needed to get weaponry.
+the Force. So {{Ben}} had moved on towards the centre of the Temple. That was
+fine with her. She needed to get weaponry.
 
 The armoury, the real one, not the training one, was next to the hangar. She
 cast herself out a bit, feeling for immediate danger, but not risking alerting
