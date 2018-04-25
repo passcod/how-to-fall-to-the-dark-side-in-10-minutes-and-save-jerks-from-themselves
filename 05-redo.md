@@ -37,9 +37,9 @@ self-defense, especially as Master {{Skywalker}} wasn't dead. Unless that was
 part of the mission. It was tough trying to reason about things with very
 limited information.
 
-But in any case, {{Ben}} was on a mission. A mission had parametres. One of
+But in any case, {{Ben}} was on a mission. A mission had parameters. One of
 these was "acceptable losses". It was a tough part of strategy classes that
-this parametre was very rarely _zero_. In {{Ben}}'s mission, zero didn't seem
+this parameter was very rarely _zero_. In {{Ben}}'s mission, zero didn't seem
 to even be close. {{Sylla}} had either been an acceptable loss or part of the
 mission.
 
@@ -161,3 +161,27 @@ The armoury, the real one, not the training one, was next to the hangar. She
 cast herself out a bit, feeling for immediate danger, but not risking alerting
 anyone who might be awake and listening. Then she took her cloak, stepped out,
 and jogged silently on the same route she took on the previous iteration.
+
+Despite {{Mahl}}'s snarky comment, she knew how to be silent. She'd needed to,
+once upon a time, and New Jedi training only improved those skills. Being
+silent in the Force, though, that was another kettle of {{skorfin}}s. Master
+{{Skywalker}} used it to cheat, er, to improve his tactical advantage, and the
+newly-discovered darksider obviously knew another technique. As it was,
+{{Sylla}} only could quiet her mind, tighten her shields, and practice one of
+the simplest ways to focus one's Force presence in a controlled manner:
+consciously leaking it in one direction. In her case, down. It wasn't perfect,
+by far, but it would put off casual scanning. At this juncture, it would have
+to be enough.
+
+The armoury was eerily silent, and much to her relief, undisturbed. It was bad
+enough having murderous maniacs running around without them also being armed
+with heavy rifles. Speaking of... Helloooo, StarAnvil. The rare blaster was
+normally off-limits, due to being, well, irreplaceable. _I guess that's one
+good thing out of this whole loop thing: can't damage it permanently!_
+
+She lifted it reverently and checked it before slinging it. Then she picked a
+couple of bog standard Westars, or more likely generic versions that worked
+just as well for a fraction of the cost, and absent-mindedly slipped a hold-out
+and a vibroknife in her boots. Apart from the heavy, a very typical kit.
+
+_Time to hunt._
