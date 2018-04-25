@@ -164,7 +164,7 @@ and jogged silently on the same route she took on the previous iteration.
 
 Despite {{Mahl}}'s snarky comment, she knew how to be silent. She'd needed to,
 once upon a time, and New Jedi training only improved those skills. Being
-silent in the Force, though, that was another kettle of {{skorfin}}s. Master
+silent in the Force, though, that was another kettle of {{skorfin}}. Master
 {{Skywalker}} used it to cheat, er, to improve his tactical advantage, and the
 newly-discovered darksider obviously knew another technique. As it was,
 {{Sylla}} only could quiet her mind, tighten her shields, and practice one of
@@ -185,3 +185,35 @@ just as well for a fraction of the cost, and absent-mindedly slipped a hold-out
 and a vibroknife in her boots. Apart from the heavy, a very typical kit.
 
 _Time to hunt._
+
+The first decision of the night was whether to go get {{Mahl}}, as a known
+variable, or avoid him entirely and focus on others. {{Sylla}} reasoned that
+while her stated goal was checking for other darksiders, a secondary goal was
+seeing if offing them was safe, loop-wise. _Offing or capturing or putting out
+of commission,_ she reminded herself. She wasn't a cold-blooded killer.
+
+So she made her quiet way to the fourth tent and hit the doorbell, then calmed
+her mind to feel, outwardly at least, like a friend. {{Mahl}} didn't
+immediately answer, but she could sense his usual presence inside moving
+around, presumably getting up. That was interesting: he was asleep, then, and
+not watching through the Force or anything. That could be good news for stealth
+in the future.
+
+When the door opened, she didn't hesitate and fired four consecutive shots at
+point blank range with the StarAnvil. The human didn't really stand a chance.
+He was hurled back through the habitat, catching on a table which sent his body
+flying, hitting the back wall with a thud and a squelch. _I thought you said
+you weren't a cold-blooded killer?_ a part of {{Sylla}} snidely remarked. _Shut
+up, he started it,_ she replied. _Force, I'm speaking to myself._
+
+She waited a moment. That had not been quiet, even though the blaster itself
+was of excellent make and had produced mostly light, not sound. Perhaps aiming
+differently next time would reduce the amount of furniture that would get
+impacted and thrown around. The darksider was dead and gone to the beyond, and
+the loop had not reset! Well. Good. Onto other things.
+
+She stepped aside, palmed the controls to close the door, and fried the
+controls so they couldn't be activated again. One down. Five she could skip,
+including herself. Nine huts to go. She hoped none of them housed another
+darksider.
+
