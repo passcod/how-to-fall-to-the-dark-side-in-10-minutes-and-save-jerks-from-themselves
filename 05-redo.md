@@ -142,14 +142,15 @@ determine if the person within is a darksider, next. Determine how?
 
 Be bold: Just straight ask them. _It's not like they're going to be honest with
 you, girl, what?_ But, well, why not? Obviously don't ask them if they're dark.
-Ask them instead about that Lord that {{Ben}} is on a mission for. Be bold.
-Provoke them into attacking her.
+Tell them about {{Ben}}, but make it sound like _she_ was the one on a mission,
+a mission that would derail theirs. Leave them to fill the gaps by themselves.
+If necessary, mention this so-called Lord. Provoke them into attacking her.
 
 Be prepared to run like hell: keep a lightsaber handy. Get a blaster from the
 armoury. And if nothing else works, reset the loop.
 
-How? {{Sylla}} got a terrifying idea, but dismissed it. _No._ She'd figure it
-out.
+How? {{Sylla}} got a terrifying idea, but dismissed it. _No. Not like that._
+She'd figure it out.
 
 "Let's do this thing," she spoke out loud.
 
@@ -204,7 +205,9 @@ point blank range with the StarAnvil. The human didn't really stand a chance.
 He was hurled back through the habitat, catching on a table which sent his body
 flying, hitting the back wall with a thud and a squelch. _I thought you said
 you weren't a cold-blooded killer?_ a part of {{Sylla}} snidely remarked. _Shut
-up, he started it,_ she replied. _Force, I'm speaking to myself._
+up, he started it,_ she replied.
+
+"...Force, I'm speaking to myself," she voiced.
 
 She waited a moment. That had not been quiet, even though the blaster itself
 was of excellent make and had produced mostly light, not sound. Perhaps aiming
@@ -214,6 +217,66 @@ the loop had not reset! Well. Good. Onto other things.
 
 She stepped aside, palmed the controls to close the door, and fried the
 controls so they couldn't be activated again. One down. Five she could skip,
-including herself. Nine huts to go. She hoped none of them housed another
+including her own. Nine huts to go. She hoped none of them housed another
 darksider.
 
+She walked at sedate pace to the next one, as the few minutes it took were a
+good time to calm herself down — despite having done relatively little, her
+adrenaline had spiked — and let the cannon cool down. The next hut housed Vsan
+Toor, and they had extra senses. During tactics practice, Sylla had observed
+reactions that only really made sense if the Kel Dor could feel heat at a
+distance, even through duracrete, although she had never confirmed it. Better
+to take the precaution.
+
+They weren't friends, but Toor liked her. None of the students here (with the
+exception of Ben, she would have thought, before) were unfamiliar with strife.
+In the red-skinned Dorian, that manifested as ruthlessness paired with quick
+reflexes, that made them a very good ally to have in unfamiliar terrain, or a
+terror to have as an enemy. She _really hoped_ them wasn't a darksider.
+Fighting them would be a nightmare.
+
+She hit the buzzer. Knocking would do nothing: the Kel Dor had an interior
+controlled atmosphere behind an airlock beyond a small reception space, and
+sound would not carry through. Inside, Toor could live and sleep without their
+mask, which they otherwise never removed, but of course no-one else could share
+nor even enter their quarters — although some species might be able to with a
+rebreather, provided their skin would not corrode in the presence of the Antiox
+gas.
+
+(Master Skywalker had simply stepped in unbothered and unharmed, because rules
+of physics and chemistry apparently did not apply to Master Skywalker. She'd
+asked, Toor had asked, most everyone had asked, but he'd only smiled and said
+something overly cryptic.)
+
+"You're up early, Rill. Anything I may do for you?" Vsan Toor inquired, voice
+gruff and leaning against the doorjamb.
+
+"Toor. There's a darksider in the temple. Want to join me in hunting it down?"
+
+The Twi'lek indicated vaguely with a casual head tilt and a lilt of her lekku.
+
+Toor's skin folds did something complicated that she understood as being
+consideration or skepticism or slight surprise. She would have held her breath
+if that hadn't had the possibility of giving away the game.
+
+"Let me guess: Skywalker trial?"
+
+_Probably not dark, then._ she thought with relief.
+
+Outwardly, she quirked her lips. The Kel Dor took that as confirmation.
+
+"I'll pass, then."
+
+_Most probably not dark, or at least not Ben-allied._
+
+They took a step back into their hut, but couldn't resist to give some advice:
+"Just don't fail and you'll be fine."
+
+Sylla smirked, and answered truthfully: "Couldn't if I tried."
+
+"Alright. No need to be overconfident, though," they chided. "Trials are no
+joke."
+
+And Vsan Toor closed the door, waving her off.
+
+_Don't I know it,_ she thought wryly. _Don't I know it._
