@@ -201,11 +201,11 @@ not watching through the Force or anything. That could be good news for stealth
 in the future.
 
 When the door opened, she didn't hesitate and fired four consecutive shots at
-point blank range with the StarAnvil. The human didn't really stand a chance.
-He was hurled back through the habitat, catching on a table which sent his body
-flying, hitting the back wall with a thud and a squelch. _I thought you said
-you weren't a cold-blooded killer?_ a part of {{Sylla}} snidely remarked. _Shut
-up, he started it,_ she replied.
+point blank range with the StarAnvil. The {{hu.people}} didn't really stand a
+chance. He was hurled back through the habitat, catching on a table which sent
+his body flying, hitting the back wall with a thud and a squelch. _I thought
+you said you weren't a cold-blooded killer?_ a part of {{Sylla}} snidely
+remarked. _Shut up, he started it,_ she replied.
 
 "...Force, I'm speaking to myself," she voiced.
 
@@ -299,4 +299,25 @@ various kinds of work, from research to pursuit to investigation to full-on
 skirmishes. {{LSTekka}}'s were about applying cultural knowledge for gain, and
 the toughest stealth work she'd ever done. And so on.
 
-//
+The next visits {{Sylla}} made, slowly weaving a zigzag through the encampment,
+showing up at every hut she knew was inhabited on her way to the last row —
+which contained only hers, {{Ben}}'s, Master {{Skywalker}}'s at a distance, and
+two others including an empty one — happened in much the same fashion.
+
+{{Kelpura}} tried to dive into the Force to sense something that could help
+her, but it _was_ very early in the morning and the {{anx.people}} had not
+extensively trained in her chosen specialty yet. She had come out disoriented,
+and only commented that "Master {{Skywalker}} is really going all out for you —
+I cannot tell if the dark presence is genuine or not."
+
+{{Nuquierissan}} had made her wince with his volume, but that was habitual for
+the {{hu.people}}. She was glad it took less than three exchanges for her to
+confirm what she wanted and for him to go back to sleep. {{Sylla}} swore she
+could hear him snore just moments after she'd cleared his hut, even through the
+steel. The {{bo.hybrid}} {{Tallya}} had hastily combed his mane before opening
+the door, and although he was taken aback at the hairless {{tw.people}} before,
+had still attempted to entice her inside. {{Sylla}} had left flustered and
+amused, but in good time.
+
+_When I get out of this I'll have to make clear to him I don't_ do _that,_ she
+mused. It was flattering, in a way, but not in any she'd really care for.

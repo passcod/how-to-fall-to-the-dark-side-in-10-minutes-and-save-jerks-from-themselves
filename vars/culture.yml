@@ -34,6 +34,7 @@ pk:
   # Partial of "I’ck essss chu ni’m?", "What are you doing?"
   whatare: I’ck essss
 
+# Dorin
 kd:
   people: Kel Dor
   adj: Dorian
@@ -43,3 +44,21 @@ kd:
   # makes up a large part of the Dorian atmosphere and which Kel Dor
   # need to breathe.
   gas: Antiox
+
+# Gravlex Med
+anx:
+  people: Anx
+
+# Humans
+hu:
+  people: Human
+  adj: Human
+  adjoid: Humanoid
+
+# Bothawui
+bo:
+  people: Bothan
+  lang: Bothese
+  writing: Botha
+  bodylang: Wrendui
+  hybrid: Half-Bothan

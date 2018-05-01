@@ -193,13 +193,13 @@ holding in your head the model of a complex arrangement of stone, durasteel,
 duracrete, furniture, fixings, and all your possessions was much harder. If you
 were lucky, the result was even waterproof.
 
-Currently, there was a single person in the newcomers' hut: {{Pritik}},
-humanoid with spindly limbs. {{Pritik}}'s species had a name for themselves,
-but it was almost entirely clicks and hisses and none of {{Sylla}}'s classmates
-had managed to replicate it. {{Pritik}} himself wasn't sure they could, as they
-lacked some vocal organ he had. {{Sylla}} suspected {{LSTekka}} would be able
-to, simply because he could speak and understand more languages than most
-protocol droids.
+Currently, there was a single person in the newcomers' hut: {{Pritik}}, a
+{{hu.adjoid}} with spindly limbs. {{Pritik}}'s species had a name for
+themselves, but it was almost entirely clicks and hisses and none of
+{{Sylla}}'s classmates had managed to replicate it. {{Pritik}} himself wasn't
+sure they could, as they lacked some vocal organ he had. {{Sylla}} suspected
+{{LSTekka}} would be able to, simply because he could speak and understand more
+languages than most protocol droids.
 
 (A rather large amount of light-years away, a very distinctive droid felt the
 need to check their circuits after a bout of _completely impossible_ sneezing.)
@@ -223,7 +223,7 @@ _Er._
 There was a pause followed by some shuffling, and {{Pritik}}'s boyish face
 popped out as the door slid open with a pneumatic hiss.
 
-He was shorter than she was, but given his age and Humanoid physiology she
+He was shorter than she was, but given his age and {{hu.adjoid}} physiology she
 expected him to shoot up in a few years. For now, she enjoyed being taller than
 at least one person here.
 
