@@ -243,10 +243,10 @@ nor even enter their quarters — although some species might be able to with a
 rebreather, provided their skin would not corrode in the presence of the Antiox
 gas.
 
-(Master Skywalker had simply stepped in unbothered and unharmed, because rules
-of physics and chemistry apparently did not apply to Master Skywalker. She'd
-asked, Toor had asked, most everyone had asked, but he'd only smiled and said
-something overly cryptic.)
+(Master Skywalker had simply stepped in unbothered and unharmed, because the
+laws of physics apparently did not apply to Master Skywalker. She'd asked, Toor
+had asked, most everyone had asked, but he'd only smiled and said something
+overly cryptic.)
 
 "You're up early, Rill. Anything I may do for you?" Vsan Toor inquired, voice
 gruff and leaning against the doorjamb.
@@ -274,9 +274,7 @@ They took a step back into their hut, but couldn't resist to give some advice:
 
 Sylla smirked, and answered truthfully: "Couldn't if I tried."
 
-"Alright. No need to be overconfident, though," they chided. "Trials are no
-joke."
+"Alright. No need to be overconfident, though," they chided as they closed the
+door, waving her off. "Trials are no joke."
 
-And Vsan Toor closed the door, waving her off.
-
-_Don't I know it,_ she thought wryly. _Don't I know it._
+_Don't I know it,_ she thought wryly, turning away. _Don't I know it._
