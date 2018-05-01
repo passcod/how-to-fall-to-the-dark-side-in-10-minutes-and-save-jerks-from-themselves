@@ -15,9 +15,9 @@ Firstly, that there was a mastermind out there. The jumbled up fragments
 {{Ben}} blurted and repeated outside before entering the Temple hinted at it,
 but this was direct and incontroversible proof.
 
-Secondly, that Mahl had been planted there, inside the {{org.newjedi}}, by this
-mastermind. That person therefore knew where the Temple was, how to get there,
-the identity of every being involved, and most likely their current
+Secondly, that {{Mahl}} had been planted there, inside the {{org.newjedi}}, by
+this mastermind. That person therefore knew where the Temple was, how to get
+there, the identity of every being involved, and most likely their current
 capabilities in all that was taught and practiced at the Temple. Furthermore,
 they had a way of communicating that did not register as Dark or suspicious for
 any of the highly sensitive Force users here, nor the less sensitive ones.
@@ -59,7 +59,7 @@ But she didn't know about any of the others.
 
 Perhaps she should find out.
 
-That was one thing to explore. Another was Mahl's darkness, abilities, and
+That was one thing to explore. Another was {{Mahl}}'s darkness, abilities, and
 mission. Especially, his ability to conceal his darkness at all times – or
 almost. That was interesting for two reasons.
 
@@ -222,59 +222,81 @@ darksider.
 
 She walked at sedate pace to the next one, as the few minutes it took were a
 good time to calm herself down — despite having done relatively little, her
-adrenaline had spiked — and let the cannon cool down. The next hut housed Vsan
-Toor, and they had extra senses. During tactics practice, Sylla had observed
-reactions that only really made sense if the Kel Dor could feel heat at a
-distance, even through duracrete, although she had never confirmed it. Better
-to take the precaution.
+adrenaline had spiked — and let the cannon cool down. The next hut housed
+{{Vsan}} {{Toor}}, and they had extra senses. During tactics practice,
+{{Sylla}} had observed reactions that only really made sense if the
+{{kd.people}} could feel heat at a distance, even through duracrete, although
+she had never confirmed it. Better to take the precaution.
 
-They weren't friends, but Toor liked her. None of the students here (with the
-exception of Ben, she would have thought, before) were unfamiliar with strife.
-In the red-skinned Dorian, that manifested as ruthlessness paired with quick
-reflexes, that made them a very good ally to have in unfamiliar terrain, or a
-terror to have as an enemy. She _really hoped_ them wasn't a darksider.
-Fighting them would be a nightmare.
+They weren't friends, but {{Toor}} liked her. None of the students here (with
+the exception of {{Ben}}, she would have thought, before) were unfamiliar with
+strife. In the red-skinned {{kd.adj}}, that manifested as ruthlessness paired
+with quick reflexes, that made them a very good ally to have in unfamiliar
+terrain, or a terror to have as an enemy. She _really hoped_ them wasn't a
+darksider. Fighting them would be a nightmare.
 
-She hit the buzzer. Knocking would do nothing: the Kel Dor had an interior
-controlled atmosphere behind an airlock beyond a small reception space, and
-sound would not carry through. Inside, Toor could live and sleep without their
-mask, which they otherwise never removed, but of course no-one else could share
-nor even enter their quarters — although some species might be able to with a
-rebreather, provided their skin would not corrode in the presence of the Antiox
-gas.
+She hit the buzzer. Knocking would do nothing: the {{kd.people}} had an
+interior controlled atmosphere behind an airlock beyond a small reception
+space, and sound would not carry through. Inside, {{Toor}} could live and sleep
+without their mask, which they otherwise never removed, but of course no-one
+else could share nor even enter their quarters — although some species might be
+able to with a rebreather, provided their skin would not corrode in the
+presence of the {{kd.gas}} gas.
 
-(Master Skywalker had simply stepped in unbothered and unharmed, because the
-laws of physics apparently did not apply to Master Skywalker. She'd asked, Toor
-had asked, most everyone had asked, but he'd only smiled and said something
-overly cryptic.)
+(Master {{Skywalker}} had simply stepped in unbothered and unharmed, because
+the laws of physics apparently did not apply to Master {{Skywalker}}. She'd
+asked, {{Toor}} had asked, most everyone had asked, but he'd only smiled and
+said something overly cryptic.)
 
-"You're up early, Rill. Anything I may do for you?" Vsan Toor inquired, voice
-gruff and leaning against the doorjamb.
+"You're up early, {{Rill}}. Anything I may do for you?" {{Vsan}} {{Toor}}
+inquired, voice gruff and leaning against the doorjamb.
 
-"Toor. There's a darksider in the temple. Want to join me in hunting it down?"
+"{{Toor}}. There's a darksider in the temple. Want to join me in hunting it
+down?"
 
-The Twi'lek indicated vaguely with a casual head tilt and a lilt of her lekku.
+The {{tw.people}} indicated vaguely to the side with a casual head tilt and a
+lilt of her lekku.
 
-Toor's skin folds did something complicated that she understood as being
+{{Toor}}'s skin folds did something complicated that she understood as being
 consideration or skepticism or slight surprise. She would have held her breath
 if that hadn't had the possibility of giving away the game.
 
-"Let me guess: Skywalker trial?"
+"Let me guess: {{Skywalker}} trial?"
 
 _Probably not dark, then._ she thought with relief.
 
-Outwardly, she quirked her lips. The Kel Dor took that as confirmation.
+Outwardly, she quirked her lips. The {{kd.people}} took that as confirmation.
 
 "I'll pass, then."
 
-_Most probably not dark, or at least not Ben-allied._
+_Most probably not dark, or at least not {{Ben}}-allied._
 
 They took a step back into their hut, but couldn't resist to give some advice:
 "Just don't fail and you'll be fine."
 
-Sylla smirked, and answered truthfully: "Couldn't if I tried."
+{{Sylla}} smirked, and answered truthfully: "Couldn't if I tried."
 
 "Alright. No need to be overconfident, though," they chided as they closed the
 door, waving her off. "Trials are no joke."
 
 _Don't I know it,_ she thought wryly, turning away. _Don't I know it._
+
+These trials were not the capital-T Trials of old, a kind of graduation exam,
+although the texts spoke of a spiritual journey and the holorecords showed
+perilous solo missions by _children_. No, these lowercase-t trials were simply
+solo training exercises given by teachers to one particular student, sometimes
+months in advance. It wasn't against the rules to ask for help, but it was rare
+for people to actually join in unless it helped them with their own, too. There
+was a small market of favours that had established itself around the practice.
+It simulated some of the dynamics out in the Outer Rim and amongst traders,
+bounty hunters, smugglers, mercenaries, politicians, and the rest of the
+semi-underground community out there in the galaxy... but at a smaller and
+safer scale.
+
+Trials given by Master {{Skywalker}} had a well-earned reputation for being
+either hard, ridiculously hard, or just plain ridiculous. They always included
+various kinds of work, from research to pursuit to investigation to full-on
+skirmishes. {{LSTekka}}'s were about applying cultural knowledge for gain, and
+the toughest stealth work she'd ever done. And so on.
+
+//

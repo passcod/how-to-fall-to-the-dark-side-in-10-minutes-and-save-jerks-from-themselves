@@ -12,12 +12,14 @@ tw:
 # Tatooine
 tt:
   adj: Tatoo
+
   # Derived from Fialleril's Tatooine Slave Culture Ekkreth: the Trickster
   trickster: Erret
 
 # Mandalore
 md:
   adj: Mando’a
+
   # Derived from Māori deity Uenuku: God of Rainbows
   rainbow: Uenu
 
@@ -31,3 +33,13 @@ pk:
 
   # Partial of "I’ck essss chu ni’m?", "What are you doing?"
   whatare: I’ck essss
+
+kd:
+  people: Kel Dor
+  adj: Dorian
+  adj2: Kel Dorian
+
+  # Kel Dor word for the poisonous/corrosive-to-humanoids gas that
+  # makes up a large part of the Dorian atmosphere and which Kel Dor
+  # need to breathe.
+  gas: Antiox
