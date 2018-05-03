@@ -315,9 +315,73 @@ the {{hu.people}}. She was glad it took less than three exchanges for her to
 confirm what she wanted and for him to go back to sleep. {{Sylla}} swore she
 could hear him snore just moments after she'd cleared his hut, even through the
 steel. The {{bo.hybrid}} {{Tallya}} had hastily combed his mane before opening
-the door, and although he was taken aback at the hairless {{tw.people}} before,
-had still attempted to entice her inside. {{Sylla}} had left flustered and
-amused, but in good time.
+the door, and although he was taken aback at the hairless {{tw.people}} before
+him, had still attempted to entice her inside. She had left flustered, amused,
+and flattered, in a way, but not in any she'd really care for.
 
-_When I get out of this I'll have to make clear to him I don't_ do _that,_ she
-mused. It was flattering, in a way, but not in any she'd really care for.
+_When I get out of this I'll have to make clear I don't_ do _that,_ she mused.
+
+It was on the seventh hut that events caught up to {{Sylla}}. No-one answered.
+The door was closed although not locked, and at a closer a few slightly wet
+prints could be seen on the hearth, like someone had stepped in then out — the
+'leaving' print overlapped and smudged the 'entering' one, so she was pretty
+sure it was in this order — not too long ago. At some point during the night.
+But she hadn't seen nor felt anyone in this area this iteration or any time
+during the previous ones when she was paying attention.
+
+Insisting with the door, she finally decided to open the door herself. Worst
+case scenario, she'd step in on a naked {{Refe}} and it would all be terribly
+embarassing, but nobody would know once she woke up again. She could live with
+that.
+
+_You need to revisit your worst case scenarios,_ her brain hissed as she took
+in the scene before her.
+
+There was blood on the floor, burns on the walls, and {{Refe}} on the ground.
+Unconscious, thankfully, not dead.
+
+She rushed at {{Refe}}'s side, looking at her and patting and feeling but she
+couldn't find an injury. The blood was hers, though. {{el.people}} bled red
+like most {{hu.adjoid}}s, but they also had an extreme coagulant in their blood
+that was activated by air. To {{Sylla}}'s knowledge, no one else here had that
+characteristic. So unless there was a _second_ {{el.people}} who had bled in
+{{Refe}}'s hut before getting away...
+
+She needed to get {{Refe}} to the med-bay, but something was deeply off here.
+For one, as far as she could tell, the {{el.people}} was unharmed, only
+unconscious. She could not find where she had bled from. Unless she had coughed
+up the liquid, which seemed unlikely given the species' physiology, the only
+logical explanation was that someone had injured her, then healed her, but then
+also left her there.
+
+_I wonder if she has door surveillance. She's from a pretty well-off family, I think..._
+
+The hut's interior was richly decorated. Well, for one thing, it was decorated.
+Her own chambers were bare and functional, with only keepsakes and sentimental
+objects. From what she'd seen of others', {{Refe}}'s rooms were practically
+regal. Lush fabrics hung as curtains, flat holos adorned the walls, and there
+was actual furniture.
+
+So it wasn't a surprise to find the door had a state-of-the-art monitoring and
+auditing facility, complete with its own interface. _Overkill,_ she thought.
+_Although I suppose it turned out to be useful._
+
+She found the log for herself entering just a few minutes prior. The only
+entries before that were {{Ben}}. Entering at about two hours past sundown,
+then leaving a quarter hour later. No-one else until {{Refe}}'s return from
+lessons at the expected time. _What were you doing there, {{Ben}}?_
+
+{{Sylla}} tried to recall what she knew of the time before this loop, this
+phenomenon, started. It was hazy in her mind. There had been a party, out in
+the open. Was {{Ben}} there? He must have been. He was always there. But she
+couldn't remember when and where. She hadn't been drinking, though, or anything
+that might explain the uncertainty. A lot had happened in between, that was
+why. Even though physically it had only been a few hours, in spirit and in mind
+it had been days, emotional, wrenching, desperate days.
+
+_I can't wait too much longer. I have to get her to medical._
+
+Even though there was nobody there but a droid, even though she knew it would
+not matter once the loop reset, even though she knew {{Refe}} had very little
+chance to wake up and tell her about what had happened before the next restart.
+Even though 'medical' was in the temple, and that was where {{Ben}} was, too.
