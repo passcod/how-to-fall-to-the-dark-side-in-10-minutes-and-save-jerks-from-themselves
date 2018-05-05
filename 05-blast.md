@@ -299,16 +299,16 @@ various kinds of work, from research to pursuit to investigation to full-on
 skirmishes. {{LSTekka}}'s were about applying cultural knowledge for gain, and
 the toughest stealth work she'd ever done. And so on.
 
-The next visits {{Sylla}} made, slowly weaving a zigzag through the encampment,
-showing up at every hut she knew was inhabited on her way to the last row —
-which contained only hers, {{Ben}}'s, Master {{Skywalker}}'s at a distance, and
-two others including an empty one — happened in much the same fashion.
+Slowly weaving a zigzag through the encampment, {{Sylla}} showed up at every
+hut she knew was inhabited on her way to the last row, which contained only
+hers, {{Ben}}'s, Master {{Skywalker}}'s at a distance, and two others including
+an empty one. They happened in much the same fashion, with similar results.
 
 {{Kelpura}} tried to dive into the Force to sense something that could help
 her, but it _was_ very early in the morning and the {{anx.people}} had not
 extensively trained in her chosen specialty yet. She had come out disoriented,
-and only commented that "Master {{Skywalker}} is really going all out for you —
-I cannot tell if the dark presence is genuine or not."
+and only commented that “Master {{Skywalker}} is really going all out for you:
+I cannot tell if the dark presence is genuine or not.”
 
 {{Nuquierissan}} had made her wince with his volume, but that was habitual for
 the {{hu.people}}. She was glad it took less than three exchanges for her to
@@ -432,7 +432,7 @@ here in the Temple, she may as well go see what {{Ben}} was doing.
 Out in the main hall, she could hear echoes of voices, perhaps even shouts or
 at the very least, an argument breaking out. {{Ben}} wasn't alone, then? Apart
 from {{Skywalker}}, probably still under debris, the only remaining people
-unaccounted for were the two who lived after {{Refe}}, whom she hadn't visited
+unaccounted for were the two who lived after {{Refe}}, who she hadn't visited
 yet.
 
 She kept her footfalls quiet, but hurried in the direction of the noise. She
@@ -466,5 +466,5 @@ already knew could not die without resetting the loop failed to duck.
 ---
 
 She woke up frustrated and angry at herself, at {{Ben}}, at {{Devasha}} and
-{{Treyuda}}. Outside her door a boy tripped in the dark, and she didn't care.
+{{Treyude}}. Outside her door a boy tripped in the dark, and she didn't care.
 Sighing, she sat up, pondering what she should do this time.
