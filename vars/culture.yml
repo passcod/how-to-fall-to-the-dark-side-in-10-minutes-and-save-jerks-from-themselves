@@ -9,6 +9,11 @@ tw:
   ash: Ilar
   volcano: Yuned’vuren
 
+  # Ears of twileks are physically different but so far I call them the same
+  ear:
+    f: ear
+    m: ear
+
 # Tatooine
 tt:
   adj: Tatoo

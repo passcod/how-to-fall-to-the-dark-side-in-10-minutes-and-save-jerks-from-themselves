@@ -354,7 +354,8 @@ up the liquid, which seemed unlikely given the species' physiology, the only
 logical explanation was that someone had injured her, then healed her, but then
 also left her there.
 
-_I wonder if she has door surveillance. She's from a pretty well-off family, I think..._
+_I wonder if she has door surveillance. She's from a pretty well-off family, I
+think..._
 
 The hut's interior was richly decorated. Well, for one thing, it was decorated.
 Her own chambers were bare and functional, with only keepsakes and sentimental
@@ -385,3 +386,85 @@ Even though there was nobody there but a droid, even though she knew it would
 not matter once the loop reset, even though she knew {{Refe}} had very little
 chance to wake up and tell her about what had happened before the next restart.
 Even though 'medical' was in the temple, and that was where {{Ben}} was, too.
+
+{{Sylla}} briefly considered hauling {{Refe}} on her shoulders before resorting
+to the Force to float her classmate along. Not only would that be faster an
+probably less tiring, although prolonged use of the Force took its toll just
+like anything else, but it would also be more healthy for {{Refe}}: the less
+movement and pulling and pushing in odd ways, the better. Almost like a
+stretcher, only... without the stretcher.
+
+_Just don't drop her,_ her inner voice piped up. _So you might want to not run
+into darksiders, inquisitive colleagues, murderous bastards... Easy peasy,
+right?_
+
+And surprisingly, it was.
+
+Despite her misgivings, {{Sylla}} encountered no-one between {{Refe}}'s hut and
+the Temple. Not even a thunderous Master {{Skywalker}}, who was still under his
+pile of rocks, unless he'd managed to get out from it all without disturbing
+the whole mess. She felt guilty about leaving him there, but he was safer
+there, or at least the iteration was safer without his intervention. She needed
+information, and she wouldn't get it if he went saber blazing into the fray.
+
+The med-bay was technically called the Healing Halls, after the old Temples,
+but it was really just a capital ship's med-bay that had been dismantled and
+re-assembled inside a set of rooms. Occasionally someone opened something, a
+cupboard, a storebox, anything... and {{Jakku}}'s sand poured out, getting
+everywhere.
+
+{{Sylla}} floated the unconscious {{el.people}} to the nearest bed, then went
+to close the door before waking up M5-D5, their med droid. Predictably, the
+droid's voice module activated loudly before she instructed it to quiet down
+and pointed out the possibly injured and most certainly completely out of it
+patient just lying there.
+
+"What have you young ladies done again?" and the {{tw.people}} winced at the
+disapproval in the droid's mannerisms.
+
+"Nothing! Nothing. I just— found her like that?" she defended herself.
+
+Deefive rotated its head towards her doubtfully before blithely getting back to
+its scan and fussing and mumbling in binary. {{Sylla}} considered herself lucky
+to have escaped its attention, and tiptoed out of the room. Now that she was
+here in the Temple, she may as well go see what {{Ben}} was doing.
+
+Out in the main hall, she could hear echoes of voices, perhaps even shouts or
+at the very least, an argument breaking out. {{Ben}} wasn't alone, then? Apart
+from {{Skywalker}}, probably still under debris, the only remaining people
+unaccounted for were the two who lived after {{Refe}}, whom she hadn't visited
+yet.
+
+She kept her footfalls quiet, but hurried in the direction of the noise. She
+recognised the voices now: they did indeed belong to her three classmates:
+{{Ben}} and {{Devasha}} and {{Treyude}}, but she couldn't tell any word out
+from the mixed up echoes. They came from the sparring room. She stopped when
+the entrance became visible, pricking up her {{tw.ear.f}}s in an attempt to
+listen in without exposing herself. She could distinguish a few words: dark,
+master, boy. It wasn't enough, so she approached the doorway, sticking to the
+wall as much as possible.
+
+Quickly peeking around the reveal, she saw that none were directly facing the
+entrance (_Sloppy. What would {{LSTekka}} say?_) and positioned herself to
+observe better. The body language of {{Treyude}} was outwardly aggressive but
+she recognised {{Ben}}'s coiled nervosity. {{Devasha}} was slightly off to the
+side, and while she was clearly interested by the discussion, appeared calmer,
+or more detached.
+
+{{Sylla}} had been watching for a few minutes, trying to decide whether to make
+herself known, or to go back to {{Refe}}, when {{Treyude}} stepped back half a
+step, threw his head back and made a disparaging wave of his hand. {{Ben}}
+snapped something and made towards his lightsaber: that pushed the other two to
+jump out, weapons blazing.
+
+"Oy!" {{Sylla}} called, waving a blaster. She needed to stop this before it
+went too far.
+
+Unfortunately, she mistimed her shout, and to her dismay the only person she
+already knew could not die without resetting the loop failed to duck.
+
+---
+
+She woke up frustrated and angry at herself, at {{Ben}}, at {{Devasha}} and
+{{Treyuda}}. Outside her door a boy tripped in the dark, and she didn't care.
+Sighing, she sat up, pondering what she should do this time.
