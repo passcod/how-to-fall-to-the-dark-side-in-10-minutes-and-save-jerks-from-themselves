@@ -23,7 +23,7 @@
     "remark-cli": "^5.0.0",
     "remark-html": "^7.0.0",
     "remark-textr": "^3.0.1",
-    "tract": "^1.0.0",
+    "tract": "^1.0.1",
     "typographic-base": "^1.0.4"
   }
 }
