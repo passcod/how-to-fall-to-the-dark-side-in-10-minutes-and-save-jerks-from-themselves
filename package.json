@@ -19,10 +19,10 @@
   "author": "Félix Saparelli <felix@passcod.name> (https://passcod.name)",
   "license": "UNLICENSED",
   "dependencies": {
-    "remark-abbr": "^1.1.2",
+    "remark-abbr": "^1.2.0",
     "remark-cli": "^5.0.0",
-    "remark-html": "^7.0.0",
-    "remark-textr": "^3.0.1",
+    "remark-html": "^8.0.0",
+    "remark-textr": "^3.0.2",
     "tract": "^1.0.1",
     "typographic-base": "^1.0.4"
   }
