@@ -215,10 +215,9 @@ differently next time would reduce the amount of furniture that would get
 impacted and thrown around. The darksider was dead and gone to the beyond, and
 the loop had not reset! Well. Good. Onto other things.
 
-She stepped aside, palmed the controls to close the door, and fried the
-controls so they couldn't be activated again. One down. Five she could skip,
-including her own. Nine huts to go. She hoped none of them housed another
-darksider.
+She stepped aside, palmed the controls to close the door, and fried them so
+they couldn't be activated again. One down. Five she could skip, including her
+own. Nine huts to go. She hoped none of them housed another darksider.
 
 She walked at sedate pace to the next one, as the few minutes it took were a
 good time to calm herself down — despite having done relatively little, her
@@ -232,7 +231,7 @@ They weren't friends, but {{Toor}} liked her. None of the students here (with
 the exception of {{Ben}}, she would have thought, before) were unfamiliar with
 strife. In the red-skinned {{kd.adj}}, that manifested as ruthlessness paired
 with quick reflexes, that made them a very good ally to have in unfamiliar
-terrain, or a terror to have as an enemy. She _really hoped_ them wasn't a
+terrain, or a terror to have as an enemy. She _really hoped_ they weren't a
 darksider. Fighting them would be a nightmare.
 
 She hit the buzzer. Knocking would do nothing: the {{kd.people}} had an
@@ -314,10 +313,12 @@ I cannot tell if the dark presence is genuine or not.”
 the {{hu.people}}. She was glad it took less than three exchanges for her to
 confirm what she wanted and for him to go back to sleep. {{Sylla}} swore she
 could hear him snore just moments after she'd cleared his hut, even through the
-steel. The {{bo.hybrid}} {{Tallya}} had hastily combed his mane before opening
-the door, and although he was taken aback at the hairless {{tw.people}} before
-him, had still attempted to entice her inside. She had left flustered, amused,
-and flattered, in a way, but not in any she'd really care for.
+steel.
+
+The {{bo.hybrid}} {{Tallya}} had hastily combed his mane before opening the
+door, and although he was taken aback at the hairless {{tw.people}} before him,
+had still attempted to entice her inside. She had left flustered, amused, and
+flattered, in a way, but not in any she'd really care for.
 
 _When I get out of this I'll have to make clear I don't_ do _that,_ she mused.
 
@@ -369,8 +370,9 @@ _Although I suppose it turned out to be useful._
 
 She found the log for herself entering just a few minutes prior. The only
 entries before that were {{Ben}}. Entering at about two hours past sundown,
-then leaving a quarter hour later. No-one else until {{Refe}}'s return from
-lessons at the expected time. _What were you doing there, {{Ben}}?_
+then leaving a quarter hour later. No-one else, going backwards through the
+log, until {{Refe}}'s return from lessons at the expected time. _What were you
+doing there, {{Ben}}?_
 
 {{Sylla}} tried to recall what she knew of the time before this loop, this
 phenomenon, started. It was hazy in her mind. There had been a party, out in
@@ -388,7 +390,7 @@ chance to wake up and tell her about what had happened before the next restart.
 Even though 'medical' was in the temple, and that was where {{Ben}} was, too.
 
 {{Sylla}} briefly considered hauling {{Refe}} on her shoulders before resorting
-to the Force to float her classmate along. Not only would that be faster an
+to the Force to float her classmate along. Not only would that be faster and
 probably less tiring, although prolonged use of the Force took its toll just
 like anything else, but it would also be more healthy for {{Refe}}: the less
 movement and pulling and pushing in odd ways, the better. Almost like a
