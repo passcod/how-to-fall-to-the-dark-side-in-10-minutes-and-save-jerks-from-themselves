@@ -19,7 +19,7 @@ who felt the Force. Nor were the Sith. It's bigger, much bigger, than a simple
 conflict between those two factions. Before you came, we had a guest speaker
 once. They were a Baran Do Sage. They don't believe in combat with the Force.
 Or, rather, they don't have it as their focus. They still train in some
-defensive uses of the Force. All traditions have their own hypocricies. This
+defensive uses of the Force. All traditions have their own hypocrisies. This
 iteration of the Jedi are perhaps a bit more open about them. We're very small,
 and that helps. But we all have things we tell ourselves and things we tell
 others and things that are true and they don't really all align perfectly.
